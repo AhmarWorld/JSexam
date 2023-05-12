@@ -1,0 +1,9 @@
+.post--card{
+    border: 2px solid gray;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 10px
+}
+body{
+    padding: 15px;
+}
